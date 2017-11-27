@@ -18,9 +18,5 @@ public class Screen extends android.view.View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
     }
-
-    @Override
-    public boolean onTouchEvent(MotionEvent event) {
-        return super.onTouchEvent(event);
-    }
+    
 }
