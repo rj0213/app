@@ -18,5 +18,6 @@ public class Screen extends android.view.View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
     }
-    
+
+    ABCD
 }
